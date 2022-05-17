@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo9895
-Fork on GitHub2441
 <h1 align="center">Hi 👋, I'm SlayerMonkey</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
