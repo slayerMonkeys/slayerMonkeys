@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm SlayerMonkey</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 🔭 I’m currently working on **Alter Life**
+- 🔭 I’m currently working on a **secret project**
 
-- 🌱 I’m currently learning **Figma**
-
-- 💬 Ask me about **Laravel, React, tailwindcss**
+- 💬 Ask me about **Laravel, React, Node.js**
 
 - 📫 How to reach me **leyrissoux.jeremy@gmail.com**
 
